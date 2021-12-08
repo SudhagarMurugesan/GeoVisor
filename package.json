@@ -22,7 +22,10 @@
     "custom-control": "^1.0.3",
     "jsfeat": "^0.0.8",
     "leaflet": "^1.7.1",
+    "leaflet-panel-layers": "^1.2.7",
+    "leaflet.control.layers.tree": "^1.1.0",
     "leaflet.fullscreen": "^2.1.0",
+    "leaflet.styledlayercontrol": "^1.0.0",
     "rxjs": "~7.4.0",
     "tslib": "^2.3.0",
     "zone.js": "~0.11.4"
